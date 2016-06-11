@@ -5,7 +5,7 @@ opencv/C++ Windows x64 visual studio2010
 
 ## HOW TO USE
 * 一度visual studioでビルドしてください。
-* openCVTemplate.slnと同じ階層にあるx64/Releaseフォルダに、必要なdllファイルをコピーしてください。
+* **openCVTemplate.slnと同じ階層にある**x64/Releaseフォルダに、必要なdllファイルをコピーしてください。
   * サンプルコードで必要なdllファイルは、以下のとおりです。
     * opencv\build\x64\vc12\bin\opencv_core2413.dll
     * opencv\build\x64\vc12\bin\opencv_highgui2413.dll

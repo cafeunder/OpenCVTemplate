@@ -10,6 +10,9 @@
 #define CV_EXT_STR ".lib"
 #endif
 
+//|===================================================================|//
+//|                           LIBRARY FILES                           |//
+//|===================================================================|//
 #pragma comment(lib, "opencv_core"            CV_VERSION_STR CV_EXT_STR)
 #pragma comment(lib, "opencv_highgui"        CV_VERSION_STR CV_EXT_STR)
 //#pragma comment(lib, "opencv_imgproc"  CV_VERSION_STR CV_EXT_STR)
